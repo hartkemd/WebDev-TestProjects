@@ -3,10 +3,3 @@
 h1, h2 {
     font-family: sans-serif;
 }
-
-
-/* Hierarchical Selectors */
-
-div h1 {
-    color: blue;
-}
