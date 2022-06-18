@@ -1,4 +1,6 @@
-function isLeap(year) {
+console.log(isLeapYear(2000));
+
+function isLeapYear(year) {
     var output = "";
     
     if (year % 4 === 0) {
